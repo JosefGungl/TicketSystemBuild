@@ -1,0 +1,66 @@
+2022-03-23 00:01:39.1725|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:02:22.8156|INFO|TicketSystemBuild.Program|User ticketType: "1"
+2022-03-23 00:02:22.8371|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:02:56.5976|INFO|TicketSystemBuild.Program|User choice: "1"
+2022-03-23 00:03:10.4181|INFO|TicketSystemBuild.Program|User choice: ""
+2022-03-23 00:03:11.6321|INFO|TicketSystemBuild.Program|User ticketType: ""
+2022-03-23 00:03:11.6321|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:03:20.1547|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:03:22.3232|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:03:41.9412|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:13:24.6876|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:13:29.3256|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:13:56.7258|ERROR|TicketSystemBuild.TicketFile|Sequence contains no elements
+2022-03-23 00:14:19.0538|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:16:18.9652|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:16:20.6557|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:16:39.6619|ERROR|TicketSystemBuild.TicketFile|Sequence contains no elements
+2022-03-23 00:23:03.7231|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:23:09.4711|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:23:11.2730|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:23:28.5391|ERROR|TicketSystemBuild.TicketFile|Sequence contains no elements
+2022-03-23 00:27:11.5259|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:27:18.3716|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:27:20.1915|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:27:52.5010|ERROR|TicketSystemBuild.TicketFile|Object reference not set to an instance of an object.
+2022-03-23 00:28:33.1120|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:28:39.3911|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:28:41.7710|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:28:47.5714|ERROR|TicketSystemBuild.TicketFile|Sequence contains no elements
+2022-03-23 00:30:51.9463|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:31:01.3212|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:31:03.4230|INFO|TicketSystemBuild.TicketFile|Tickets in file 0
+2022-03-23 00:31:18.3208|INFO|TicketSystemBuild.TicketFile|Ticket id "1" added
+2022-03-23 00:32:33.4300|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:32:38.8831|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:32:39.6586|INFO|TicketSystemBuild.TicketFile|Tickets in file 1
+2022-03-23 00:37:27.7162|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:37:32.7126|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:37:34.6967|INFO|TicketSystemBuild.EnhancementFile|Enhancements in file 0
+2022-03-23 00:38:32.8028|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:38:34.8769|INFO|TicketSystemBuild.EnhancementFile|Enhancements in file 0
+2022-03-23 00:39:54.8243|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:39:56.6368|INFO|TicketSystemBuild.EnhancementFile|Enhancements in file 0
+2022-03-23 00:40:22.2379|INFO|TicketSystemBuild.EnhancementFile|Enhancement id "1" added
+2022-03-23 00:40:30.6116|INFO|TicketSystemBuild.TaskFile|Tickets in file 0
+2022-03-23 00:41:18.3977|INFO|TicketSystemBuild.TaskFile|Task id "1" added
+2022-03-23 00:50:08.9268|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 00:50:14.8241|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 00:50:17.3560|INFO|TicketSystemBuild.TaskFile|Tickets in file 1
+2022-03-23 00:50:50.6450|INFO|TicketSystemBuild.TaskFile|Task id "1" added
+2022-03-23 01:14:51.1659|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 01:14:56.9226|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 01:15:11.5564|INFO|TicketSystemBuild.TicketFile|Tickets in file 1
+2022-03-23 01:15:50.7700|INFO|TicketSystemBuild.TicketFile|Ticket id 2 added
+2022-03-23 01:15:57.6848|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 01:23:11.7451|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 01:23:16.5801|INFO|TicketSystemBuild.TicketFile|Tickets in file 2
+2022-03-23 01:23:16.5892|INFO|TicketSystemBuild.EnhancementFile|Enhancements in file 1
+2022-03-23 01:23:16.5989|INFO|TicketSystemBuild.TaskFile|Tickets in file 2
+2022-03-23 01:23:16.5989|INFO|TicketSystemBuild.Search|Created search.
+2022-03-23 01:24:33.4577|INFO|TicketSystemBuild.Search|5 status found
+2022-03-23 01:24:51.9860|INFO|TicketSystemBuild.Program|Program ended
+2022-03-23 01:24:59.5564|INFO|TicketSystemBuild.Program|Program started
+2022-03-23 01:25:03.2549|INFO|TicketSystemBuild.TicketFile|Tickets in file: 2
+2022-03-23 01:25:23.5714|INFO|TicketSystemBuild.TicketFile|Ticket id 3 added
+2022-03-23 01:25:26.2380|INFO|TicketSystemBuild.Program|Program ended
